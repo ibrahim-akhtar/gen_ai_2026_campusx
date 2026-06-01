@@ -1,0 +1,7 @@
+# 1. Search console.anthropic
+
+# 2. Or go to this website: https://platform.claude.com/create 
+
+# 3. Go to Get API keys -> create a new secret key (requires 5 dollars in credit)
+
+# 4. After getting the key, in .env file create a string variable (ANTHROPIC_API_KEY) and then in double quotes paste the secret key

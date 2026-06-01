@@ -1,0 +1,11 @@
+# 1. Go to this website: https://platform.openai.com/home 
+
+# 2. Go to API keys -> create a new secret key
+
+# 3. Name the key & Select Default Project & create secret key
+
+# 4. Key has been created and copy it to use it in the project
+
+# 5. In .env file create a string variable (OPENAI_API_KEY) and then in double quotes paste the secret key
+
+# the result has no/error output because open ai api keys arent free anymore need like 5 dollars in credit
